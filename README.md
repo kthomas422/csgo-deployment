@@ -15,6 +15,11 @@ docker run -d \
   csgo:latest
 ```
 
+### Helpful Links:
+- https://developer.valvesoftware.com/wiki/SteamCMD#Linux
+- https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Dedicated_Servers#Advanced_Configuration
+- https://medium.com/alterway/deploying-a-steam-dedicated-server-on-kubernetes-645099d063e0
+
 #### TODO:
 - Add maps
 - Add config
